@@ -6,7 +6,7 @@ Este projeto faz parte do meu portfólio de *Análise e Desenvolvimento de Siste
 ---
 
 ## 🚀 Acesse o Jogo
-🔗 [Clique aqui para jogar](https://seu-usuario.github.io/jogo-adivinhacao/)
+🔗 [Clique aqui para jogar](https://github.com/Aline724.github.io/jogo-adivinhacao/)
 
 ---
 
